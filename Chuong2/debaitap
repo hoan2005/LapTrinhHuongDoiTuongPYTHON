@@ -1,0 +1,6 @@
+Viết chương trình quản lý showroom ôt vinfast
+yêu cầu :
+sử dụng lập trình hướng đối tượng
+cần quản lý các thuộc tính sau mã xe,tên xe,hãng xe, năm sản xuất,,giá bán,màu sắc,số ghế
+phương thức là thêm xe vào showroom và in xe theo mã có trong showroom
+sau khi tạo xoong thì cần thêm vào 3 xe và in thông tin ra thông của xe bất kỳ theo mã
