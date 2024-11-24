@@ -21,11 +21,11 @@ class QuanLyOto:
             print("so ghe xe :",lis[maxe][5])
             return
         print("mã xe không tồn")
-xe=QuanLyOto("01","vf8","xanh","2021","300000","5")
-xe.them()
-xe1=QuanLyOto("02","vf8","đỏ","2021","300000","5")
-xe1.them()
-xe1.show("02")
+while(True):
+    n=input("nhập chức năng bạn muốn")
+    if(n==1):
+        QuanLyOto.them()
+
 
 
 
